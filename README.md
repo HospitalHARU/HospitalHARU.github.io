@@ -58,7 +58,7 @@
         ---
 ```      
 
-![alt-tag](https://c2.staticflickr.com/8/7613/27278759785_da430e2f99_o.png)
+![alt-tag](https://imagenes.elpais.com/resizer/OHt2PJUfIpKfC64YX_dg3pjBnA8=/414x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/EJMQL3VWGFCSWOE2ITVEC37IGY.jpg)
 
 ####It'd be really cool if you,<br>
 1.  Create some new feature and would like to integrate in Safarnama. Pull requests are most invited.
