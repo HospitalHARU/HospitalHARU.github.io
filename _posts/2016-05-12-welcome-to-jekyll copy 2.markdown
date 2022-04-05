@@ -16,5 +16,6 @@ que puedas necesitar
 
 Para mayor informacion puedes mandar
 un mensaje a este correo electronico
-que te propocionaremos 
+que te propocionaremos
+
 Correo: g.zuz.solfa@gmail.com
