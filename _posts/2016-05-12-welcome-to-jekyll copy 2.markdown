@@ -13,3 +13,8 @@ Como lo es la Cirugia plastica
 Este hospital te puede brindar
 los servicios necesarios
 que puedas necesitar
+
+Para mayor informacion puedes mandar
+un mensaje a este correo electronico
+que te propocionaremos 
+Correo: g.zuz.solfa@gmail.com
