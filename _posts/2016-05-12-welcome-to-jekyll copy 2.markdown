@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title:  "Cirugia Plastica."
 date:   2020-04-05 16:20:00 +0530
 categories: HospitalHaru
