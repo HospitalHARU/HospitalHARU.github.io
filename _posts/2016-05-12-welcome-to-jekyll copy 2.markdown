@@ -5,10 +5,10 @@ date:   2020-04-05 16:20:00 +0530
 categories: HospitalHaru
 author: Escalona Marcos
 ---
-I thought I must be dreaming that
-I thought I was awake,
-For I was without question in
-A most peculiar state.
+En este apartado de la paguina puedes
+encontar diferentes servicios
+que HostpitalHaru te puede brindar
+Como lo es la Cirugia plastica
 
 Who was thinking I was dreaming
 I was thinking in my sleep?
