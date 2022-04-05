@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Space Bound Rocketship"
-date:   2016-05-12 22:01:43 +0530
-categories: General
-author: "Space Ipsum"
+title:  "Terapia Médica Intenciba"
+date:   2022-04-05 17:00:00 +0530
+categories: HospitalHaru
+author: "Escalona Marcos"
 ---
 As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.
 
