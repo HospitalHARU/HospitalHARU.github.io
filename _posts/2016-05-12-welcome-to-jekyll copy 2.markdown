@@ -2,7 +2,7 @@
 layout: post
 title:  "Cirugia Plastica."
 date:   2020-04-05 16:20:00 +0530
-categories: poems
+categories: HospitalHaru
 author: "Nicholas Gordan"
 ---
 I thought I must be dreaming that
