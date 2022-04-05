@@ -10,4 +10,6 @@ encontar diferentes servicios
 que HostpitalHaru te puede brindar
 Como lo es la Cirugia plastica
 
-
+Este hospital te puede brindar
+los servicios necesarios
+que puedas necesitar
