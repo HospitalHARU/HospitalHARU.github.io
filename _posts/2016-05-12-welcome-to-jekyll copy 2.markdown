@@ -19,3 +19,10 @@ un mensaje a este correo electronico
 que te propocionaremos
 
 Correo: g.zuz.solfa@gmail.com
+
+O tambien puedes marcar o 
+mandar un Whatsapp al siguiente
+numero que acontinuacion te 
+proporcionaremos
+
+Num.Tel.:5547974460
