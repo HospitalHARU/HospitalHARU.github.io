@@ -16,3 +16,4 @@ As we got further and further away, it [the Earth] diminished in size. Finally i
 Astronomy compels the soul to look upward, and leads us from this world to another.
 
 The sky is the limit only for those who aren't afraid to fly!
+![image](https://user-images.githubusercontent.com/99769644/165854420-50005139-e161-42db-95b1-b55128985412.png)
